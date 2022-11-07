@@ -7,3 +7,5 @@ Un hombre de 26 años, próximamente 27, que esta estudiando programación de vi
 trabaja en una empresa que presta un softwar de administración bancaria o CORE bancario como Líder funcional de proyectos.
 
 Es económista pero no ha tenido la experiencia directa de lo que ha estudiado.
+
+Esta linea es un segundo cambio.

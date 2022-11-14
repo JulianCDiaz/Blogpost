@@ -40,3 +40,13 @@ body {
     font-size: 20px;
 
 }
+#footer {
+    font-family: 'Times New Roman';
+    background-color: #333;
+    color: antiquewhite;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50px;
+    font-size: 20px;
+}
